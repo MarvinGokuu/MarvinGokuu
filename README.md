@@ -3,7 +3,7 @@
 **MarvinGokuu/MarvinGokuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 📊 My Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinGokuu&layout=compact&theme=radical) ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarvinGokuu&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinGokuu&layout=compact&theme=radical&langs_count=10) ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarvinGokuu&theme=radical)
 
 ## 🏆 Achievements
 
