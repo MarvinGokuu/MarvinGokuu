@@ -1,56 +1,91 @@
-## Hi there 👋
+# 🌋 Marvin Gokuu | Senior AAA Kernel Engineer
 
-**MarvinGokuu/MarvinGokuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 📊 My Stats
+[![GitHub followers](https://img.shields.io/github/followers/MarvinGokuu?style=social)](https://github.com/MarvinGokuu)
+[![GitHub stars](https://img.shields.io/github/stars/MarvinGokuu?style=social)](https://github.com/MarvinGokuu)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinGokuu&layout=compact&theme=radical&langs_count=10) ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarvinGokuu&theme=radical)
+---
 
-## 🏆 Achievements
+## 🚀 Current Sovereign Project
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarvinGokuu&theme=onestar)
-<
-## 🛠️ Technologies and Tools
+### [Volcan Engine v1.0](https://github.com/MarvinGokuu/VolcanEngine)
+**Status**: AAA+ Certified  
+**Architecture**: Lock-Free, Off-Heap, Deterministic  
+
+**Core Features**:
+- ⚡ Atomic Bus: <150ns latency
+- 🚀 Throughput: >10M eventos/s
+- 💾 Zero GC: Off-Heap Memory (Project Panama)
+- 🎯 Fixed Timestep: 60 FPS determinista
+- 🔒 Lock-Free Ring Buffer con VarHandles
+
+**Tech Stack**: Java 25, Project Panama, Foreign Memory API, VarHandles
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Specializations
+- **Low-Latency Systems** (<150ns atomic operations)
+- **Lock-Free Architectures** (Ring Buffers, VarHandles)
+- **Off-Heap Memory Management** (Project Panama)
+- **Game Engine Architecture** (AAA standards)
+- **Deterministic Systems** (Fixed Timestep, Reproducible State)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-		</tr>
-	</table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinGokuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinGokuu&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<!--
----
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinGokuu&theme=tokyonight" alt="MarvinGokuu's streak"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Featured Projects
+
+### [🌋 Volcan Engine](https://github.com/MarvinGokuu/VolcanEngine)
+Motor de juegos AAA con arquitectura lock-free. Latencia <150ns, throughput >10M eventos/s, zero GC.
+- **Tech**: Java 25, Project Panama, VarHandles
+- **Status**: v1.0 AAA+ Certified
+
+### [🎨 ScriptUI](https://github.com/MarvinGokuu/ScriptUI)
+Framework de UI con JavaScript moderno.
+- **Tech**: JavaScript, HTML5, CSS3
+- **Focus**: Componentes reutilizables
+
+---
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-MarvinGokuu-181717?style=for-the-badge&logo=github)](https://github.com/MarvinGokuu)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarvinGokuu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<div align="center">
+  
+**"Talk is cheap. Show me the code."** - Linus Torvalds
+
+</div>
