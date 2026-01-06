@@ -1,4 +1,4 @@
-# 🌋 Marvin Gokuu | Senior AAA Kernel Engineer
+# 🌋 "MARVIN DEV sv"
 
 [![GitHub followers](https://img.shields.io/github/followers/MarvinGokuu?style=social)](https://github.com/MarvinGokuu)
 [![GitHub stars](https://img.shields.io/github/stars/MarvinGokuu?style=social)](https://github.com/MarvinGokuu)
@@ -85,6 +85,6 @@ Framework de UI con JavaScript moderno.
 </div>
 
 <div align="center">
-  
+
 
 </div>
