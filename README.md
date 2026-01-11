@@ -1,67 +1,64 @@
-# MARVIN DEV
+# MARVIN DEV 🇸🇻
 
 **Architect of Sovereign High-Performance Systems**
 *Specializing in Java 25, Low-Latency (<150ns), and AAA+ Game Engines*
 
 [![GitHub followers](https://img.shields.io/github/followers/MarvinGokuu?style=flat&label=Followers&color=black)](https://github.com/MarvinGokuu)
 [![GitHub stars](https://img.shields.io/github/stars/MarvinGokuu?style=flat&label=Stars&color=black)](https://github.com/MarvinGokuu)
+[![License: V.E.S.L.](https://img.shields.io/badge/License-V.E.S.L._1.0-FFD700?style=flat&labelColor=000000)](https://github.com/MarvinGokuu/VolcanEngine#license)
 
 ---
 
-## Current Sovereign Project
+## 🏛️ Sovereign Project: Volcan Engine v2.2
 
-### [Volcan Engine v2.2](https://github.com/MarvinGokuu/VolcanEngine)
+El **Volcan Engine** es un motor de alto rendimiento diseñado bajo el paradigma de la **Soberanía del Silicio**. No es solo software; es infraestructura de misión crítica blindada por la licencia V.E.S.L.
 
-**Status**: AAA+ Certified (100% Compliance)
-**Architecture**: Lock-Free, Off-Heap, Deterministic
+* **Atomic Bus**: 1.52ns latency (Zero-Friction Communication).
+* **Throughput**: >650M events/s.
+* **Memory Management**: Off-Heap Pure (Project Panama / Foreign Memory API).
+* **Safety**: Sovereign Kernel with **Bio-Ethic Protocol** (V.E.S.L. Article 1).
 
-**Core Features**:
-* **Atomic Bus**: 1.52ns latency (World Record)
-* **Throughput**: >650M events/s
-* **Zero GC**: Off-Heap Memory (Project Panama)
-* **Fixed Timestep**: 60 FPS Deterministic Loop
-* **Lock-Free**: Ring Buffer w/ VarHandles
 
-**Tech Stack**: Java 25, Project Panama, Foreign Memory API, AVX-512
 
 ---
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
-**Languages**
+**Sovereign Core**
 ![Java](https://img.shields.io/badge/Java_25-000000?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
 ![GraalVM](https://img.shields.io/badge/GraalVM-000000?style=flat&logo=oracle&logoColor=white)
+![Low Latency](https://img.shields.io/badge/Latency-1.52ns-red?style=flat)
 
-**Specializations**
-* Low-Latency Systems (<150ns operations)
-* Lock-Free Architectures (Ring Buffers, Wait-Free)
-* Memory Sovereignty (Off-Heap, Cache Line Alignment)
-* Game Engine Architecture (Sovereign Kernel)
+**Visual & Orchestration**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 
 ---
 
-## Featured Projects
+## 📜 Sovereign License (V.E.S.L.) v1.0
+*Protecting Life, Ensuring Performance.*
 
-### [Volcan Engine](https://github.com/MarvinGokuu/VolcanEngine)
-AAA+ Game Engine with Sovereign Architecture.
-* **Performance**: 1.52ns Latency | 650M ops/s throughput
-* **Status**: v2.2 AAA+ Certified
+Todos mis sistemas de alto rendimiento operan bajo la **Volcan Engine Sovereign License**. 
+1. **Prioridad de Vida**: La ejecución está subordinada a la seguridad biológica.
+2. **Exclusión de Responsabilidad**: Software entregado "AS IS" para fines científicos.
+3. **Comandos de Autoridad**: Reconocimiento de *Magic Words* (`MarvinDevOn`, `MarvinDevoff`, `MarvinDevsv`).
 
-### [ScriptUI](https://github.com/MarvinGokuu/ScriptUI)
-Modern UI Framework with JavaScript.
-* **Focus**: Performance & Reusability
+
+
+---
+
+## 🚀 Key Specializations
+* **Mechanical Sympathy**: Diseñando código que "fluye" con la arquitectura del CPU.
+* **Lock-Free Design**: Uso intensivo de `VarHandles` y `Wait-Free` Ring Buffers.
+* **Off-Heap Memory**: Gestión manual de memoria para evitar pausas de GC.
 
 ---
 
 ## Connect
-
 [![GitHub](https://img.shields.io/badge/GitHub-MarvinGokuu-000000?style=flat&logo=github)](https://github.com/MarvinGokuu)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MarvinGokuu&color=black&style=flat&label=Views)
+
+---
+*“No compruebes el éxito, garantiza la imposibilidad del fallo.”*
 >
