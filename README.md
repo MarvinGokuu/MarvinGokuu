@@ -46,15 +46,6 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarvinGokuu&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinGokuu&layout=compact&langs_count=8&theme=graywhite&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarvinGokuu&theme=graywhite&hide_border=true)
-
----
-
 ## Featured Projects
 
 ### [Volcan Engine](https://github.com/MarvinGokuu/VolcanEngine)
