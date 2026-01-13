@@ -1,50 +1,40 @@
 # MARVIN DEV 🇸🇻
 
-**Architect of Sovereign High-Performance Systems**
-*Specializing in Java 25, SIMD Vectors, and Ultra-Low Latency (<2ns)*
-
-[![GitHub followers](https://img.shields.io/github/followers/MarvinGokuu?style=flat&label=Followers&color=black)](https://github.com/MarvinGokuu)
-[![GitHub stars](https://img.shields.io/github/stars/MarvinGokuu?style=flat&label=Stars&color=black)](https://github.com/MarvinGokuu)
-[![Verified: AAA+](https://img.shields.io/badge/Verified-AAA%2B_Benchmark-00ff00?style=flat&logo=shield)](https://github.com/MarvinGokuu)
+**Estudiante de Arquitectura de Sistemas (Kernel & Runtime de Alto Rendimiento)**  
+*Java 25 · SIMD Vector API · Off-Heap · Concurrencia de baja latencia*
 
 ---
 
-## 🏛️ Sovereign Project: Volcan Engine v2.2
+## Proyecto: Motor gráfico multiplataforma de bajo nivel (v2.0)
 
-Elemento **Alpha** de infraestructura crítica. Diseñado para la **Soberanía del Silicio**, operando al límite físico del hardware moderno.
+Desarrollo de un **kernel de infraestructura crítica** orientado a **alto rendimiento**, enfocado en:
 
-### ⚡ 2026 PERFORMANCE METRICS (CERTIFIED)
-| Component | Metric | Technology |
-| :--- | :--- | :--- |
-| **Data Accelerator** | **🚀 4.17 GB/s** | **SIMD Vector API** (256-bit Lanes) |
-| **Atomic Bus** | **⚡ 1.52 ns** | **Zero-Friction** (Wait-Free/Lock-Free) |
-| **Throughput** | **🌊 650M ops/s** | **Off-Heap Ring Buffer** (Project Panama) |
-| **Safety** | **🛡️ 100% Native** | Sovereign Kernel Protected |
+- Acceso directo a memoria (off-heap)
+- Procesamiento vectorizado (SIMD)
+- Concurrencia sin bloqueos (wait-free / lock-free)
+- Latencia mínima y alto throughput
 
-> *"Tratamos los datos como partículas subatómicas: aceleración masiva en paralelo."*
-
-# MARVIN DEV 🇸🇻
-
-**Architect of Sovereign High-Performance Systems**
-*Specializing in Java 25, SIMD Vectors, and Ultra-Low Latency (<2ns)*
-
-[![GitHub followers](https://img.shields.io/github/followers/MarvinGokuu?style=flat&label=Followers&color=black)](https://github.com/MarvinGokuu)
-[![GitHub stars](https://img.shields.io/github/stars/MarvinGokuu?style=flat&label=Stars&color=black)](https://github.com/MarvinGokuu)
-[![Verified: AAA+](https://img.shields.io/badge/Verified-AAA%2B_Benchmark-00ff00?style=flat&logo=shield)](https://github.com/MarvinGokuu)
+El diseño prioriza el **uso eficiente de las capacidades reales del hardware**, reduciendo al mínimo el overhead del runtime.
 
 ---
 
-## 🏛️ Sovereign Project: Volcan Engine v2.2
+## Métricas de rendimiento (2026)
 
-Elemento **Alpha** de infraestructura crítica. Diseñado para la **manipulacion del CPU**, operando al límite físico del hardware moderno.
+| Componente              | Métrica        | Tecnología                                   | Aplicación |
+|-------------------------|----------------|----------------------------------------------|------------|
+| Acelerador de Datos     | 4.17 GB/s      | SIMD Vector API (256 bits, 8 carriles)       | Módulo de procesamiento |
+| Bus Atómico             | ~1.52 ns       | Operaciones wait-free / VarHandle            | Sincronización |
+| Throughput              | 650M ops/s     | Ring Buffer off-heap (Project Panama)        | Paso de mensajes |
+| Seguridad de memoria    | Sin GC crítico | Off-heap controlado                          | Núcleo |
+---
 
-### ⚡ LIVE BENCHMARK (DATA ACCELERATOR)
-**Prueba Principal de Rendimiento (2026)**:
-```console
-[VOLCAN ACCELERATOR] Status: ONLINE
-[VOLCAN ACCELERATOR] Vector Bit Size: 256 bits (8 lanes)
-[BENCHMARK] Allocating 953 MB of off-heap memory...
-[BENCHMARK] Igniting Accelerator...
-[BENCHMARK] Checksum: 250000000
-[BENCHMARK] Time: 0.22332 s
-[RESULT] THROUGHPUT: 4.17 GB/s  🚀
+## Prueba: Throughput de memoria y cómputo (Acelerador de Datos)
+
+| Aspecto medido      | Qué se está evaluando        | Detalle técnico |
+|---------------------|------------------------------|-----------------|
+| Inicialización      | Costes fuera de la medición  | Código caliente, sin warm-up incluido |
+| Paralelismo         | Procesamiento vectorial      | SIMD 256 bits (8 × int32 por operación) |
+| Memoria             | Acceso a RAM directa         | Off-heap, sin GC ni objetos |
+| Patrón de acceso    | Eficiencia de caché          | Lectura secuencial, prefetch del CPU |
+| Resultado           | Throughput efectivo          | 4.17 GB/s de lectura + cómputo |
+
