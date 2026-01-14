@@ -5,7 +5,7 @@
 
 ---
 
-## Proyecto: Motor gráfico multiplataforma de bajo nivel (v2.0)
+## Proyecto: Motor gráfico multiplataforma de bajo nivel (v1.0)
 
 Desarrollo de un **kernel de infraestructura crítica** orientado a **alto rendimiento**, enfocado en:
 
