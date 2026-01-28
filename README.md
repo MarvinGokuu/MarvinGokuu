@@ -1,6 +1,6 @@
 # MARVIN DEV 🇸🇻
 
-**Systems Architecture Engineer** | **High-Performance Runtime & Kernel Development**  
+**Self-Taught Systems Architecture Student** | **High-Performance Runtime & Kernel Development**  
 *Java 25 · SIMD Vector API · Off-Heap Memory · Low-Latency Concurrency*
 
 ---
